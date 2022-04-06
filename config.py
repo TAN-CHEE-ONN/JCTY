@@ -4,6 +4,6 @@ custompass = "Bait3273"
 customdb = "employee"
 custombucket = "tancheeonn-bucket"
 customregion = "us-east-1"
-cloudfront = "dax16l2qkp7po.cloudfront.net"
+cloudfront = "d5pzftquxamhn.cloudfront.net"
 
 
